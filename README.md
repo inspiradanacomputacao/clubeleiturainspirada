@@ -8,4 +8,4 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 
 - (06/04) Live 1 - Lançamento do Clube, Prefácio e Apresentação [ [Assistir](https://youtu.be/lZjSEpgFTh0) | [Anotações](https://docs.google.com/document/d/1tjhvrICUKVx0AYioNOYxJvEFlo_usiJvv6HxXyCROtk/edit?usp=sharing) | [Avaliar](https://forms.gle/PnnBBfNFw6uWZwmP7) ]
 
-- (13/04) Live 2 - Capítulo 1 [ [Assistir](#) | [Anotações](#) | [Perguntar](#) | [Avaliar](#) ]
+- (13/04) Live 2 - Capítulo 1 [ Assistir | Anotações  | Perguntar | Avaliar ]
