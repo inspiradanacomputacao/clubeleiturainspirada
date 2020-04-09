@@ -1,5 +1,6 @@
 # Clube Leitura InspirAda
-Repositório do Clube Leitura InspirAda
+
+Clube de leitura focado na formação intelectual e social de estudantes, profissionais e pessoas interessadas em tecnologia, computação e envolvimento de outras áreas como ciências humanas e comunicação. 
 
 ## Abril
 #### Livro: Comunidades, Algoritmos e Ativismos Digitais: Olhares Afrodiaspóricos - Organização: Tarcízio Silva
