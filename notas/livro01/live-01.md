@@ -6,12 +6,12 @@
 
 ## TOUCHPOINTS PRA ACOMPANHAR A CONVERSA
 
-  - Técnicas para Leitura: 
-    + anotar termos desconhecidos, primeira leitura rápida, 
-    + anotar as citações interessantes, 
-    + ler a bibliografia no final (“raiz das ideias”),
-    + evernote para resumos e uso de palavras-chave para facilitar as buscas, 
-    + ler no PlayLivros que já gera documento com as anotações, 
+  - Técnicas para Leitura:
+    + anotar termos desconhecidos, primeira leitura rápida,
+    + anotar as citações interessantes,
+    + ler a bibliografia no final (“raiz das ideias”)
+    + evernote para resumos e uso de palavras-chave para facilitar as buscas,
+    + ler no PlayLivros que já gera documento com as anotações,
     + criar perguntas após cada capítulo como forma de ampliar a visão da leitura.
   - Escolha do livro: pelo olhar revolucionário dentro das perspectivas social, racial, territorial, gênero. Como as pessoas negras/pretas estão construindo tecnologia?
   - Interfaces: Tecnologia + Social
