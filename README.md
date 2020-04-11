@@ -16,4 +16,4 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 
 ## Como sugerir livros?
 
-Abra uma issue
+Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
