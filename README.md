@@ -11,7 +11,7 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 
 - (06/04) Live 1 - Lançamento do Clube, Prefácio e Apresentação [ [Assistir](https://youtu.be/lZjSEpgFTh0) | [Anotações](./notas/livro01/live-01.md) | [Avaliar](https://forms.gle/PnnBBfNFw6uWZwmP7) ]
 
-- (13/04) Live 2 - Capítulo 1 [ Assistir | Anotações  | Perguntar | Avaliar ]
+- (13/04) Live 2 - Capítulo 1 [ [Assistir](https://youtu.be/foy77XEVcYY) | [Anotações](./notas/livro01/live-02.md)  | Avaliar ]
 
 
 ## Como sugerir livros?
