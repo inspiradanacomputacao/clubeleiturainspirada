@@ -48,12 +48,26 @@
 - Ana Carolina da Hora, Ogunhê Podcast: https://anchor.fm/ana-carolina-da-hora
 - Thiane Neves, citação: “Estamos em marcha! Escrevivendo, agindo e quebrando códigos”
 - Winnie Teca, Ações antirracistas: https://twitter.com/winniebueno?s=09
-- Angela Davis, sobre Sistema Carcerário, livro “Estarão as prisões Obsoletas?” https://www.amazon.com.br/Estar%C3%A3o-pris%C3%B5es-obsoletas-Angela-Davis-ebook/dp/B07D2HD2HX & https://carceraria.org.br/mulher-encarcerada/angela-davis-o-encarceramento-em-massa-nunca-trouxe-solucoes-para-conter-a-violencia & https://outraspalavras.net/outrasmidias/angela-davis-analisa-nosso-potente-feminismo-negro/
-- Joy Buolamwini, Algoritmos (Anti)Racistas, fundadora da “Liga da Justiça Algorítmica” e “Poetisa de Códigos”: https://www.youtube.com/watch?v=UG_X_7g63rY & https://www.youtube.com/watch?v=lbnVu3At-0o & https://twitter.com/jovialjoy & https://www.ajlunited.org/ & https://www.businessinsider.com/biases-ethics-facial-recognition-ai-mit-joy-buolamwini-2019-1 
-- Python Brasil, comunidade de programação em Python: https://python.org.br/ & https://2018.pythonbrasil.org.br/ & https://2019.pythonbrasil.org.br/ & https://2020.pythonbrasil.org.br/ 
+- Angela Davis, sobre Sistema Carcerário, livro “Estarão as prisões Obsoletas?”
+  - https://www.amazon.com.br/Estar%C3%A3o-pris%C3%B5es-obsoletas-Angela-Davis-ebook/dp/B07D2HD2HX
+  - https://carceraria.org.br/mulher-encarcerada/angela-davis-o-encarceramento-em-massa-nunca-trouxe-solucoes-para-conter-a-violencia
+  - https://outraspalavras.net/outrasmidias/angela-davis-analisa-nosso-potente-feminismo-negro/
+- Joy Buolamwini, Algoritmos (Anti)Racistas, fundadora da “Liga da Justiça Algorítmica” e “Poetisa de Códigos”:
+  - https://www.youtube.com/watch?v=UG_X_7g63rY
+  - https://www.youtube.com/watch?v=lbnVu3At-0o
+  - https://twitter.com/jovialjoy
+  - https://www.ajlunited.org/ 
+  - https://www.businessinsider.com/biases-ethics-facial-recognition-ai-mit-joy-buolamwini-2019-1 
+- Python Brasil, comunidade de programação em Python: 
+  - https://python.org.br/
+  - https://2018.pythonbrasil.org.br/
+  - https://2019.pythonbrasil.org.br/
+  - https://2020.pythonbrasil.org.br/ 
 - AfroPython, comunidade de Python com o objetivo de incluir e empoderar pessoas negras/pretas na TI: https://afropython.org/
 - Felipe de Morais, “FeliPython”: https://twitter.com/felipedemorais_
 - Foucault, livro “Vigiar e Punir”
-- TED, Betina Costa, “Does Algorithm have a soul?” (PyData Miami 2019): https://www.youtube.com/watch?v=yNcUPORvhv4&feature=youtu.be & (Python Brasil 2018): https://www.youtube.com/watch?v=3I0tcbl-YgY&t=2s
+- TED, Betina Costa, “Does Algorithm have a soul?”
+  - (PyData Miami 2019): https://www.youtube.com/watch?v=yNcUPORvhv4&feature=youtu.be
+  - (Python Brasil 2018): https://www.youtube.com/watch?v=3I0tcbl-YgY&t=2s
 - TED, Chimamanda Adichie, “O perigo de uma história única”: https://www.youtube.com/watch?v=qDovHZVdyVQ
 - Any (Anicely Santos), sobre Sistema Carcerário: http://www.inspiradanacomputacao.com/blog/como-a-tecnologia-pode-ser-um-instrumento-de-forca-na-ressocializacao
