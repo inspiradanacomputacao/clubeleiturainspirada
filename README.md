@@ -1,11 +1,6 @@
-[livro01-compre]: http://www.literarua.com.br/livro/olhares-afrodiasporicos
-[livro01-ebook]: https://bit.ly/ComunidadesDigitais
-[livro01-skoob]: https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
-[livro01-goodreads]: https://www.goodreads.com/book/show/53005858-comunidades-algoritmos-e-ativismos-digitais
-
 # Clube Leitura InspirAda
 
-Clube de leitura focado na formação intelectual e social de estudantes, profissionais e pessoas interessadas em tecnologia, computação e envolvimento de outras áreas como ciências humanas e comunicação. 
+Clube de leitura focado na formação intelectual e social de estudantes, profissionais e pessoas interessadas em tecnologia, computação e envolvimento de outras áreas como ciências humanas e comunicação.
 
 [Site](www.inspiradanacomputacao.com) | [Telegram](https://t.me/ClubeLeituraInspirAda)
 
@@ -24,3 +19,8 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
+
+[livro01-compre]:     http://www.literarua.com.br/livro/olhares-afrodiasporicos
+[livro01-ebook]:      https://bit.ly/ComunidadesDigitais
+[livro01-skoob]:      https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
+[livro01-goodreads]:  https://www.goodreads.com/book/show/53005858-comunidades-algoritmos-e-ativismos-digitais
