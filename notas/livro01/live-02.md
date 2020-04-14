@@ -12,7 +12,7 @@
 #### Editora LiteraRUA: [Versão Física][livro01-compre] | [Versão Digital Gratuita][livro01-ebook]
 #### Redes sociais para leitores: [Goodreads][livro01-goodreads] | [Skoob][livro01-skoob]
 
-Contribua com vakinha do Liberta elas: <vaka.me/983711>
+Contribua com vakinha do Liberta elas: (vaka.me/983711)
 
 ## Touchpoints
 
