@@ -1,7 +1,20 @@
-## [Abril](http://inspiradanacomputacao.com/blog/clube-de-leitura-inspirada-adota-livro-que-aborda-relacao-entre-tecnologia-e-questoes-raciais)
+[link-template]: https://github.com/inspiradanacomputacao/clubeleiturainspirada/notas/livro01/template.md "template.md"
+[livro01-post]: http://inspiradanacomputacao.com/blog/clube-de-leitura-inspirada-adota-livro-que-aborda-relacao-entre-tecnologia-e-questoes-raciais
+[repo-clube]: https://github.com/inspiradanacomputacao/clubeleiturainspirada
+
+[livro01-compre]: http://www.literarua.com.br/livro/olhares-afrodiasporicos
+[livro01-ebook]: https://bit.ly/ComunidadesDigitais
+[livro01-skoob]: https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
+[livro01-goodreads]: https://www.goodreads.com/book/show/53005858-comunidades-algoritmos-e-ativismos-digitais
+
+## [InspirAda#Abril][livro01-post]
 #### Livro: Comunidades, Algoritmos e Ativismos Digitais: Olhares Afrodiaspóricos - Organização: Tarcízio Silva
-#### Editora LiteraRUA: [Versão Física](http://www.literarua.com.br/livro/olhares-afrodiasporicos) | [Versão Digital Gratuita](https://bit.ly/ComunidadesDigitais)
-##### [Goodreads](https://www.goodreads.com/book/show/53005858-comunidades-algoritmos-e-ativismos-digitais) | [Skoob](https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html)
+#### Editora LiteraRUA: [Versão Física][livro01-compre] | [Versão Digital Gratuita][livro01-ebook]
+#### Redes sociais para leitores: [Goodreads][livro01-goodreads] | [Skoob][livro01-skoob]
+
+Template Original em [clubeleiturainspirada/notas/livro01/template.md][link-template]
+
+Como criar seu próprio Gist: https://gist.github.com
 
   - [x] [Prefacio](#pref)
   Emicida
