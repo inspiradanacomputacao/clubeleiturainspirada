@@ -22,5 +22,5 @@ Contribua com vakinha do Liberta elas: [vaka.me/983711](https://vaka.me/983711)
 - [brasil io](https://brasil.io/home)
 - Livro: *Prisioneiras*, Drauzio Varela
 - Achile Mbembe, *Vigiar e Punir* e *Necropolítica*
-  - Podcast do Teologia de Boteco sobre Necropolítica
+  - [Podcast do Teologia de Boteco sobre Necropolítica](https://teologiadeboteco.com.br/2019/08/20/125-teologia-de-boteco-necropolitica-com-roberto-barbosa-de-moura/)
 - Artigo [Nada sobre nós sem nós: da integração à inclusão](https://scholar.google.com/scholar?cluster=13384120771105268185&hl=pt-BR&as_sdt=0,5&sciodt=0,5)
