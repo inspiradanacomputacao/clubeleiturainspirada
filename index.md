@@ -8,11 +8,11 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 #### Livro: Comunidades, Algoritmos e Ativismos Digitais: Olhares Afrodiaspóricos - Organização: Tarcízio Silva
 #### Editora LiteraRUA: [Versão Física][livro01-compre] | [Versão Digital Gratuita][livro01-ebook] | [Goodreads][livro01-goodreads] | [Skoob][livro01-skoob]
 
-- (06/04) Live 1 - Lançamento do Clube, Prefácio e Apresentação [ [Assistir](https://youtu.be/lZjSEpgFTh0) \| [Anotações](./../notas/livro01/live-01.md) \| [Avaliar](https://forms.gle/PnnBBfNFw6uWZwmP7) ]
+- (06/04) Live 1 - Lançamento do Clube, Prefácio e Apresentação [ [Assistir](https://youtu.be/lZjSEpgFTh0) \| [Anotações](./notas/livro01/live-01.md) \| [Avaliar](https://forms.gle/PnnBBfNFw6uWZwmP7) ]
 
-- (13/04) Live 2 - Capítulo 1 [ [Assistir](https://youtu.be/foy77XEVcYY) \| [Anotações](./../notas/livro01/live-02.md) \| Avaliar ]
+- (13/04) Live 2 - Capítulo 1 [ [Assistir](https://youtu.be/foy77XEVcYY) \| [Anotações](./notas/livro01/live-02.md) \| Avaliar ]
 
-- (20/04) Live 3 - Capítulo 2 [ Assistir \| [Anotações](./../notas/livro01/live-03.md) \| Avaliar ]
+- (20/04) Live 3 - Capítulo 2 [ Assistir \| [Anotações](./notas/livro01/live-03.md) \| Avaliar ]
 
 
 ## Como sugerir livros?
