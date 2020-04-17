@@ -2,7 +2,7 @@
 
 Clube de leitura focado na formação intelectual e social de estudantes, profissionais e pessoas interessadas em tecnologia, computação e envolvimento de outras áreas como ciências humanas e comunicação.
 
-[Site](www.inspiradanacomputacao.com) \| [Telegram](https://t.me/ClubeLeituraInspirAda)
+[Site](http://www.inspiradanacomputacao.com) \| [Telegram](https://t.me/ClubeLeituraInspirAda)
 
 ## Abril
 #### Livro: Comunidades, Algoritmos e Ativismos Digitais: Olhares Afrodiaspóricos - Organização: Tarcízio Silva
