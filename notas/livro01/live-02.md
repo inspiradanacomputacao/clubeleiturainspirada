@@ -17,8 +17,10 @@
 
 ## Convidades
 
-- Juliane Trevas, [Liberta Elas][link-conv-01]
-  - Contribua com a vakinha do Liberta elas: [vaka.me/983711](https://vaka.me/983711)
+- Juliane Trevas (@ju_trevas), [Liberta Elas][link-conv-01]
+  - Contribua com a vakinha do Liberta elas:
+  **Nossa sentenção não é a de morte**  
+  [vaka.me/983711](https://vaka.me/983711)
 
 ## Touchpoints
 - '4:30 - Tecnologia e política
@@ -46,22 +48,50 @@
 - Segurança pra quem e pra quê?
 - Visões de mundo e sociedade que queremos
 - Movimento Software Livre como forma de resistência de pessoas da área de tecnologia
+- Tecnologia também envolve fatores culturais, não só artefatos digitais
+- Pessoas muito boas tecnicamente, mas que não estão refletindo sobre implicações éticas do seu trabalho, se está contribuindo para desigualdade
+- (NL) ​A tecnologia é produto da sociedade em que vivemos.  
+​Se não vivemos numa sociedade pós-racial, isso vai refletir na tecnologia q é produzida
+- Como cientistas podemos ir além
+- Inovação e disrupção pode vir de situações adversas
+- '40:00 - (WC) As pesquisas mais sérias estão nas universidades públicas ainda; e passam pelos professores (efetivos principalmente)
+  - O professor tem um aprofundamento que deve ser valorizado
+  - > (WC) "A universidade é antes de tudo um encontro de Universos..."
+- '42:00 - Dificuldade de obter dados abertos do sistema prisional (InfoPEN)
+  - Acesso de informação
+  - Invisibilidade de certos dados
+  - Pernambuco tem dificuldade com dados carcerários, mas está em primeiro lugar nos estados que colaboram com dados sobre a Covid19
+  - Dados que pegam bem e dados que não pegam bem
+- '53:00 - Dificuldades da ressocialização
+  - Locais q não são prisões mas lembram o suficiente para afastar quem passou por encarceramento
+  - Prisão como último local de acolhimento de quem sofreu diversas exclusões e violações
+  - Empresas q contratam por 3/4 do salário mínimo mulheres encarceradas, depois não contratam
+  - Estado depois pune mais a reincidência
+  - Prisões insalubres
+- ['1:00:00](https://youtu.be/foy77XEVcYY?t=3708) - Sobre o **Liberta Elas**
+  - *Encarceramento em Massa*, Juliana Borges, Coleção Feminismos Plurais
+  - *Estão as prisões obsoletas?*, Angela Davis
 
 ## Referências
 - [Liberta Elas][link-conv-01]
 - [www.maristane.com/school-or-prison/pt-BR/][jogo-school-or-prison]
-- Cerveja com dados #3 Recife()
-  População carcerária feminina em Pernambuco - Liberta Elas*
+- Cerveja com dados #3 Recife: *População carcerária feminina em Pernambuco - Liberta Elas*
 - Livro [*Raça depois tecnologia*, Ruha Benjamin](https://tarciziosilva.com.br/blog/raca-depois-da-tecnologia-ferramentas-abolicionistas-contra-os-novos-racismos/)
 - http://www.abc.org.br/atuacao/internacional/participacao-em-organizacoes/forum-de-ciencia-tecnologia-e-sociedade-sts-forum/
 - Inteligência artificial e raça, [Carla Vieira](https://twitter.com/carlaprvieira)
 - [brasil io](https://brasil.io/home)
-- Achile Mbembe, *Vigiar e Punir* e *Necropolítica*
-  - [Podcast do Teologia de Boteco sobre Necropolítica](https://teologiadeboteco.com.br/2019/08/20/125-teologia-de-boteco-necropolitica-com-roberto-barbosa-de-moura/)
+- Livro *Os presos que menstruam*
+- Achile Mbembe
+  - Livros *Vigiar e Punir* e *Necropolítica*
+  - [Podcast do Teologia de Boteco sobre Necropolítica (ep. 125)](https://teologiadeboteco.com.br/2019/08/20/125-teologia-de-boteco-necropolitica-com-roberto-barbosa-de-moura/)
+- Palestra sobre como tecnologia pode ajudar na ressocialização
 - Documentário [*A 13º Emenda*](https://pt.wikipedia.org/wiki/13th_(filme))
 - Livro: *Prisioneiras*, Drauzio Varela
+  - Maior indice de problemas de saúde mental, no sistema carcerário feminino
+  - Mulheres abandonadas 3 vezes: maridos, sociedade/estado, família
+- Editora M-1, Série Pandemia, Zine *Primeiras impressões sobre o fascismo*
+  - Mulheres no cárcere
 - Artigo [Nada sobre nós sem nós: da integração à inclusão](https://scholar.google.com/scholar?cluster=13384120771105268185&hl=pt-BR&as_sdt=0,5&sciodt=0,5)
 
 [link-conv-01]: https://www.folhape.com.br/noticias/noticias/mulheres-em-movimento/2019/09/17/NWS,116584,70,1055,NOTICIAS,2190-LIBERTA-ELAS.aspx "Notícia na Folha de Pernambuco"
 [jogo-school-or-prison]: https://www.maristane.com/school-or-prison/pt-BR/ "Isto é uma escola ou uma prisão?"
-
