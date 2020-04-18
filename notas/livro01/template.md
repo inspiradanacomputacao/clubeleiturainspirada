@@ -1,10 +1,10 @@
-[link-template]: https://github.com/inspiradanacomputacao/clubeleiturainspirada/notas/livro01/template.md "template.md"
-[livro01-post]: http://inspiradanacomputacao.com/blog/clube-de-leitura-inspirada-adota-livro-que-aborda-relacao-entre-tecnologia-e-questoes-raciais
-[repo-clube]: https://github.com/inspiradanacomputacao/clubeleiturainspirada
+[link-template]:     https://github.com/inspiradanacomputacao/clubeleiturainspirada/notas/livro01/template.md "template.md"
+[livro01-post]:      http://inspiradanacomputacao.com/blog/clube-de-leitura-inspirada-adota-livro-que-aborda-relacao-entre-tecnologia-e-questoes-raciais
+[repo-clube]:        https://github.com/inspiradanacomputacao/clubeleiturainspirada
 
-[livro01-compre]: http://www.literarua.com.br/livro/olhares-afrodiasporicos
-[livro01-ebook]: https://bit.ly/ComunidadesDigitais
-[livro01-skoob]: https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
+[livro01-compre]:    http://www.literarua.com.br/livro/olhares-afrodiasporicos
+[livro01-ebook]:     https://bit.ly/ComunidadesDigitais
+[livro01-skoob]:     https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
 [livro01-goodreads]: https://www.goodreads.com/book/show/53005858-comunidades-algoritmos-e-ativismos-digitais
 
 ## [InspirAda#Abril][livro01-post]
@@ -56,14 +56,14 @@ Como criar seu próprio Gist: https://gist.github.com
   Seyram Avle
   - [ ] ...
 
-## <a name="pref" /> Prefácio
+## <a name="pref"></a> Prefácio
 
   - 
 
-## <a name="apres" /> Apresentação
+## <a name="apres"></a> Apresentação
 
   - 
 
-## <a name="cap01" /> Retomando Nosso Fôlego: Estudos de Ciência e Tecnologia, Teoria Racial Crítica e a Imaginação Carcerária
+## <a name="cap01"></a> Retomando Nosso Fôlego: Estudos de Ciência e Tecnologia, Teoria Racial Crítica e a Imaginação Carcerária
 
   - 
