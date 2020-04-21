@@ -10,8 +10,18 @@
 #### Editora LiteraRUA: [Versão Física][livro01-compre] | [Versão Digital Gratuita][livro01-ebook]
 #### Redes sociais para leitores: [Goodreads][livro01-goodreads] | [Skoob][livro01-skoob]
 
-# Convidades
+## Convidades
 
 - Débora Aleluia
 
-# Touchpoints
+## Touchpoints
+
+## Referências
+- Livro [_Imagens de controle: Um conceito do pensamento de Patricia Hill Collins_](http://www.editorazouk.com.br/pd-717c38-imagens-de-controle.html), Winnie Bueno
+- [Live sobre Pensamento do Feminismo Negro](https://twitter.com/winniebueno/status/1251950256461418503)
+- Documentário [Don't F**k with Cats](https://www.netflix.com/title/81031373)
+- > "Todo jornalista tem o papel de ser educador"  
+- Livro *Ruptura: a queda da democracia liberal*, Manuel Castells
+- > Todos iguais, mas uns mais iguais que os outros.  
+- Documentário [A Negação do Brasil](https://youtu.be/PrrR2jgSf9M)
+- [#OndeOBlackTwitterTava](https://twitter.com/hashtag/OndeOBlackTwitterTava)
