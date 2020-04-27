@@ -14,6 +14,7 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 
 - (20/04) Live 3 - Capítulo 2 [ [Assistir](https://youtu.be/bpYCfMlDXu4) \| [Anotações](./notas/livro01/live-03.md) \| Avaliar ]
 
+- (27/04) Live 4 - Capítulo 3 [ [Assistir](https://youtu.be/oU-EgiIvdLE) \| [Anotações](./notas/livro01/live-04.md) \| Avaliar ]
 
 ## Como sugerir livros?
 
