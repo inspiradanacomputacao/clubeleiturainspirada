@@ -2,9 +2,12 @@
 
 Clube de leitura focado na formação intelectual e social de estudantes, profissionais e pessoas interessadas em tecnologia, computação e envolvimento de outras áreas como ciências humanas e comunicação.
 
-[Site](http://www.inspiradanacomputacao.com) \| [Telegram](https://t.me/ClubeLeituraInspirAda)
+[Site](http://www.inspiradanacomputacao.com/blog/clube-de-leitura-inspirada-adota-livro-que-aborda-relacao-entre-tecnologia-e-questoes-raciais) \| [Telegram](https://t.me/ClubeLeituraInspirAda)
 
 ## Abril
+
+![Capa do Livro](./notas/livro01/cover_01_caadoa_tarcizio_silva.png)
+
 #### Livro: Comunidades, Algoritmos e Ativismos Digitais: Olhares Afrodiaspóricos - Organização: Tarcízio Silva
 #### Editora LiteraRUA: [Versão Física][livro01-compre] | [Versão Digital Gratuita][livro01-ebook] | [Goodreads][livro01-goodreads] | [Skoob][livro01-skoob]
 
