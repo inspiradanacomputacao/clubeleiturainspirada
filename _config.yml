@@ -1,1 +1,19 @@
 theme: jekyll-theme-architect
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: "/livro*"
+      type: "posts"
+    values:
+      layout: post
+      show_sidebar: true
+      published: true
+paginate: 5
+paginate_path: "/livro01/live:num"
+footer_menu: example_footer_menu
