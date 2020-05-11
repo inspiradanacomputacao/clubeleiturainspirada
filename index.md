@@ -63,6 +63,48 @@ Avaliar
 Avaliar
 ]
 
+- (25/05) Live 8 - Capítulo 7
+[
+[Assistir](https://youtu.be/fl9cmTMH1Ic) \|
+[Anotações](./notas/livro01/live-08.md)  \|
+Avaliar
+]
+
+- (01/06) Live 9 - Capítulo 8
+[
+[Assistir](https://youtu.be/9ZibRxOBllU) \|
+[Anotações](./notas/livro01/live-09.md)  \|
+Avaliar
+]
+
+- (08/06) Live 10 - Capítulo 9
+[
+[Assistir](https://youtu.be/NJ3cFjlAVBs) \|
+[Anotações](./notas/livro01/live-10.md)  \|
+Avaliar
+]
+
+- (15/06) Live 11 - Capítulo 10
+[
+[Assistir](https://youtu.be/osq_VGi0gMM) \|
+[Anotações](./notas/livro01/live-11.md)  \|
+Avaliar
+]
+
+- (22/06) Live 12 - Capítulo 11
+[
+[Assistir](https://youtu.be/Zy9JDcBRjsw) \|
+[Anotações](./notas/livro01/live-12.md)  \|
+Avaliar
+]
+
+- (29/06) Live 13 - Capítulo 12
+[
+[Assistir](https://youtu.be/Jt1NyySz5Yc) \|
+[Anotações](./notas/livro01/live-13.md)  \|
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
