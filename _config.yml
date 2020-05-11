@@ -2,7 +2,6 @@ theme: jekyll-theme-architect
 
 paginate: 5
 paginate_path: "/notas/livro01/live:num"
-footer_menu: example_footer_menu
 
 plugins:
   - jekyll-sitemap
