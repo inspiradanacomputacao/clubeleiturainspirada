@@ -1,4 +1,17 @@
 theme: jekyll-theme-architect
+
+paginate: 5
+paginate_path: "/livro01/live:num"
+footer_menu: example_footer_menu
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  # - jekyll-seo-tag
+  # - kramdown
+  # - rouge
+
 defaults:
   -
     scope:
@@ -14,6 +27,3 @@ defaults:
       layout: post
       show_sidebar: true
       published: true
-paginate: 5
-paginate_path: "/livro01/live:num"
-footer_menu: example_footer_menu
