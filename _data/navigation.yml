@@ -2,8 +2,8 @@
   link: /#
   dropdown:
     - name: Livro 1
-      link: /livro01/
+      link: /notas/livro01/
 - name: Livro 1
-  link: /livro01/
+  link: /notas/livro01/
 - name: Como sugerir um livro
   link: https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues
