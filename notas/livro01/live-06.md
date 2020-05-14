@@ -20,4 +20,22 @@
 
 ## Touchpoints
 
-## Referências
+## Recomendações
+- [Pocket show do seu camarada Emicida](https://open.spotify.com/playlist/0OIwJBdMeW2uLrjwOfaGi9?si=dcU2uK-wT4G1gsdHqaf_-Q)
+- Links sobre a autora Larisse Louise P. Gomes
+  - <http://ufsc.academia.edu/LarissEPontes>
+  - [O Outro sou Eu](https://www.academia.edu/41453107/O_OUTRO_SOU_EU_)
+- Mini-série [Self-Made](https://www.netflix.com/title/80202462),
+inspirada na vida de Madame CJ Walker
+  - [Resenha do canal _De Pretas_](https://youtu.be/B9qDFXp1dvs)
+- Clip [Eminência Parda](https://youtu.be/fXHpmuPJ4Ks)
+- [Todos os albuns do Meninas Black Power](https://www.facebook.com/meninasblackpower/photos/?tab=album&ref=page_interna)
+- [Página do Coletivo Vício Cacheado no Facebook](https://www.facebook.com/VicioCacheado)
+- Documentário [Good Hair](https://www.imdb.com/title/tt1213585/)
+- Curta-metragem [Hair Love](https://www.imdb.com/title/tt7129636/)
+- Textos da professora Alessandra Eduardo sobre "tornar-se negro(a)", página
+_Descobrindo a História Preta_ (~~Desmentindo a História Branca~~)
+  - <https://www.facebook.com/descobrindoahistoriapreta/posts/908446229611187>
+  - <https://www.facebook.com/descobrindoahistoriapreta/posts/909746372814506>
+- Livro *Tornar-se Negro*, Neusa Santos Souza
+- Filme [Felicidade por Um Fio](https://www.netflix.com/title/80189630)
