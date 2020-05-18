@@ -21,6 +21,8 @@ Clube de leitura focado na formação intelectual e social de estudantes, profis
 
 - (04/05) Live 5 - Capítulo 4 [ [Assistir](https://youtu.be/SDMLMMhHolw) \| [Anotações](./notas/livro01/live-05.md) \| Avaliar ]
 
+- (18/05) Live 7 - Capítulo 6 [ [Assistir](https://youtu.be/wNgakkFNhvI) \| [Anotações](./notas/livro01/live-07.md) \| Avaliar ]
+
 - (11/05) Live 6 - Capítulo 5 [ [Assistir](https://youtu.be/59C3190AA4g) \| [Anotações](./notas/livro01/live-06.md) \| Avaliar ]
 ## Como sugerir livros?
 
