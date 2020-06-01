@@ -61,6 +61,13 @@ Avaliar
 Avaliar
 ]
 
+- (25/05) Live 8 - Capítulo 7
+[
+[Assistir](https://youtu.be/fl9cmTMH1Ic) |
+[Anotações](./notas/livro01/live-08.md)  |
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
