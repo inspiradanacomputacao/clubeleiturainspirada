@@ -72,7 +72,7 @@ Avaliar
 
 - (01/06) Live 9 - Capítulo 8
 [
-[Assistir](https://youtu.be/inspiradanacomputacao) \|
+[Assistir](https://youtu.be/9ZibRxOBllU) \|
 [Anotações](./notas/livro01/live-09.md)  \|
 Avaliar
 ]
