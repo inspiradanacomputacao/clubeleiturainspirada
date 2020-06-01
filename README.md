@@ -68,6 +68,13 @@ Avaliar
 Avaliar
 ]
 
+- (01/06) Live 9 - Capítulo 8
+[
+[Assistir](https://youtu.be/inspiradanacomputacao) |
+[Anotações](./notas/livro01/live-09.md)  |
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
