@@ -3,7 +3,7 @@
 [livro01-skoob]: https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
 [livro01-goodreads]: https://www.goodreads.com/book/show/53005858-comunidades-algoritmos-e-ativismos-digitais
 
-[link-live]: https://youtu.be/inspiradanacomputacao
+[link-live]: https://youtu.be/9ZibRxOBllU
 
 # Anotação - [Live 09][link-live] - 01/06/2020
 #### Livro: Comunidades, Algoritmos e Ativismos Digitais: Olhares Afrodiaspóricos - Organização: Tarcízio Silva
