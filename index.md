@@ -77,6 +77,13 @@ Avaliar
 Avaliar
 ]
 
+- (08/06) Live 10 - Capítulo 9
+[
+[Assistir](https://youtu.be/NJ3cFjlAVBs) \|
+[Anotações](./notas/livro01/live-10.md)  \|
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
