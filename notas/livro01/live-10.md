@@ -63,6 +63,7 @@ Mestre Márcio Paim_
   - [Relações étnico-raciais, estudos africanos e afro-brasileiros em diáspora na arquitetura e urbanismo](https://www.youtube.com/watch?v=MS3I4sUUgFc)
   - [Pandemia na África: Epidemiologia e Algocracia](https://www.youtube.com/watch?v=ekJTGnzDQXA)
 - [Noam Chomsky](https://g.co/kgs/UCJniD)
+  - [Variação e mudança em perspectiva Chomskyana: Fato ou fake?](https://youtu.be/JoaGPwePcQI)
 - [MIT Technology Review Brasil](https://open.spotify.com/episode/01HZNAJNbNeH3qypfQERsT?si=Y_3rLWFfQ_aVs5gJOcNAAQ)
   - [LinkTree](https://linktr.ee/mittechreviewbr)
 - [​Data 4 Black Lives](http://d4bl.org/)
