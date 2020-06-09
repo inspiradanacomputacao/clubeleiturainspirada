@@ -24,4 +24,29 @@ minha família. HackerAntirracista. <https://www.ninadahora.dev/>
 
 ## Touchpoints
 
+- A composição das equipes tbm precisa ser diversa
+- (RB) _​Esse ponto da neutralidade foi para mim algo bem importante, pensar
+que a tecnologia impõe que todos devam ser iguais e exige que todos estejam
+sobre as mesmas regras._
+- (LB) _​Um ponto q se destacou p/ mim foi a parte da dominação colonial. Me
+remeteu ao trabalho do professor *Clapperton Mavhunga* sobre a apropriação de
+conhecimentos locais africanos pela ciência branca ocidental_
+  - _​fala de como a colonialidade apaga o conhecimento africano, coisificando
+  e des-intelectualizando o negro. Me deixou muito pensando sobre como a
+  colonização algorítmica também opera processo similar._
+- A forma como autores brancos falam da ciência feita na África trás um viés de
+subalternização de outros saberes
+- A importância de saber conceitos de análise de dados, códigos
+- Modelos matemáticos
+- Nina: _Não é saudável ter que estar o tempo todo lutando_
+- Shury: _faltam tecnologias construtivas, positivas_
+  - Como esses dados representam esse povo?
+- IA Superestimada, robô Sofia
+- (EA) ​a mãe da criança autista que Lidy mencionou o twitter é a Andréa Werner
+- (TV) ​Psicolinguística
+- **p. 164**: curso 360
+  - Dado é uma manipulação humana
+- Não é pq na área de TI não tem regulamentação como Medicina, q não pode
+causar tanto dano quanto.
+
 ## Recomendações
