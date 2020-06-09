@@ -50,3 +50,21 @@ subalternização de outros saberes
 causar tanto dano quanto.
 
 ## Recomendações
+- [Ogunhê Podcast](​https://podtail.com/podcast/ogunhe-podcast/)
+  - <https://anchor.fm/ana-carolina-da-hora>
+- Instagram Katiúscia Ribeiro: _Independência africana: Comemorar ou refletir  
+Mestre Márcio Paim_
+  - [Parte 1](https://www.instagram.com/tv/CAod9TMp4SG/)
+  - [Parte 3](https://www.instagram.com/tv/CAoi7rgJ_7k/)
+- Livros de Jarid Arraes:
+  - *​As Lendas de Dandara*
+  - *Heroínas Negras Brasileiras em 15 Cordéis*
+- Congresso UFBA 2020 (Virtual):
+  - [Relações étnico-raciais, estudos africanos e afro-brasileiros em diáspora na arquitetura e urbanismo](https://www.youtube.com/watch?v=MS3I4sUUgFc)
+  - [Pandemia na África: Epidemiologia e Algocracia](https://www.youtube.com/watch?v=ekJTGnzDQXA)
+- [Noam Chomsky](https://g.co/kgs/UCJniD)
+- [MIT Technology Review Brasil](https://open.spotify.com/episode/01HZNAJNbNeH3qypfQERsT?si=Y_3rLWFfQ_aVs5gJOcNAAQ)
+  - [LinkTree](https://linktr.ee/mittechreviewbr)
+- [​Data 4 Black Lives](http://d4bl.org/)
+- Livro _Como Mentir com Estatística_
+- Série [Sangue e Água](https://www.netflix.com/title/81044547)
