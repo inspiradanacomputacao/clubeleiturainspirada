@@ -49,6 +49,8 @@ subalternização de outros saberes
 - Não é pq na área de TI não tem regulamentação como Medicina, q não pode
 causar tanto dano quanto.
 - Não seja um ​_"Profissional Buzz Word"_
+- Interferência Humana contribuiu pra máquina conseguir pensar na melhor
+estratégia no case _AlphaGo_.
 
 ## Recomendações
 - [Ogunhê Podcast](​https://podtail.com/podcast/ogunhe-podcast/)
