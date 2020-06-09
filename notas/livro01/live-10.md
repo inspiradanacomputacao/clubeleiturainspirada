@@ -48,6 +48,7 @@ subalternização de outros saberes
   - Dado é uma manipulação humana
 - Não é pq na área de TI não tem regulamentação como Medicina, q não pode
 causar tanto dano quanto.
+- Não seja um ​_"Profissional Buzz Word"_
 
 ## Recomendações
 - [Ogunhê Podcast](​https://podtail.com/podcast/ogunhe-podcast/)
