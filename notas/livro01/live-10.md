@@ -72,3 +72,10 @@ Mestre Márcio Paim_
 - [​Data 4 Black Lives](http://d4bl.org/)
 - Livro _Como Mentir com Estatística_
 - Série [Sangue e Água](https://www.netflix.com/title/81044547)
+- **Indicações da Nina**:
+  - _African Mathematics: From Bones to Computers_ - Livro
+  - _A Origem da Civilização_ - Cheik Anta Diop
+  - Cat Matemática - Menina de 11 anos acho preta brasileira que ensina matemática no YouTube
+  - Livro _Memórias da Plantação_, Grada  Kilomba
+  - _Algoritmos para viver_ - livro
+  - _Race after Technology_ - Ruha Benjamin
