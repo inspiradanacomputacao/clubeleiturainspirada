@@ -82,6 +82,13 @@ Avaliar
 Avaliar
 ]
 
+- (15/06) Live 11 - Capítulo 10
+[
+[Assistir](https://youtu.be/osq_VGi0gMM) |
+[Anotações](./notas/livro01/live-11.md)  |
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
