@@ -1,0 +1,28 @@
+theme: jekyll-theme-architect
+
+paginate: 5
+paginate_path: "/notas/livro01/live:num"
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  # - jekyll-seo-tag
+  # - kramdown
+  # - rouge
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: "/notas/livro*"
+      type: "posts"
+    values:
+      layout: post
+      show_sidebar: true
+      published: true
