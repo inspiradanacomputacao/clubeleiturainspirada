@@ -14,14 +14,24 @@
 
 ## Convidades
 
-- **Serge Katembera**: Graduado em Ciências Sociais e Mestrado em Sociologia
-pela Universidade Federal da Paraíba. Doutorando em Sociologia pelo PPGS (UFPB).
-Pesquisa a influência das Novas Tecnologias da Informação na democratização da
-África francófona. É co-autor de _“Outsourced Information: identity and unpaid
-work in the age of digital journalism”_.
+- [**Serge Katembera**](https://twitter.com/sk_serge): Graduado em Ciências
+Sociais e Mestrado em Sociologia pela Universidade Federal da Paraíba.
+Doutorando em Sociologia pelo PPGS (UFPB). Pesquisa a influência das Novas
+Tecnologias da Informação na democratização da África francófona. É co-autor de
+_"Outsourced Information: identity and unpaid work in the age of digital
+journalism"_.
 
-- Mediação: Lidiane Monteiro e Anicely Santos
+## Mediação
+- [Anicely Santos](https://twitter.com/shuri_any)
+- [Lidiane Monteiro](https://twitter.com/Lidy_Monteiro)
 
 ## Touchpoints
 
+- Conceito de civismo no BR é atravessado pela história da ditadura
+- (...)
+- Vcs são de exatas, e como é q vcs estão se virando nas questões de humanas?
+
 ## Recomendações
+
+- Artigo [A informação terceirizada: identidade e trabalho não pago na era do
+jornalismo digital](https://revistacomsoc.pt/article/view/851)
