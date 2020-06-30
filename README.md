@@ -96,6 +96,13 @@ Avaliar
 Avaliar
 ]
 
+- (29/06) Live 13 - Capítulo 12
+[
+[Assistir](https://youtu.be/Jt1NyySz5Yc) |
+[Anotações](./notas/livro01/live-13.md)  |
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
