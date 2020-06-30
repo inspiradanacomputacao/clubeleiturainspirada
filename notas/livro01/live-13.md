@@ -1,8 +1,3 @@
----
-layout: post
-title: Live #13
----
-
 [livro01-compre]: http://www.literarua.com.br/livro/olhares-afrodiasporicos
 [livro01-ebook]: https://bit.ly/ComunidadesDigitais
 [livro01-skoob]: https://www.skoob.com.br/comunidades-algoritmos-e-ativismos-digitais-1136137ed1139762.html
