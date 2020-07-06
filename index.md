@@ -105,6 +105,13 @@ Avaliar
 Avaliar
 ]
 
+- (06/07) Live 14 - Capítulo 13
+[
+[Assistir](https://youtu.be/Tz-WSqxZ6Z4) \|
+[Anotações](./notas/livro01/live-14.md)  \|
+Avaliar
+]
+
 ## Como sugerir livros?
 
 Abra uma [issue](https://github.com/inspiradanacomputacao/clubeleiturainspirada/issues)
