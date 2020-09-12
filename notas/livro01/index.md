@@ -115,8 +115,8 @@ Avaliar
 
 - (13/07) Live 15 - Capítulo 14
 [
-[Assistir](https://youtu.be/AxCEP0Mo_l4) |
-[Anotações](./live-15.md)                |
+[Assistir](https://youtu.be/AxCEP0Mo_l4) \|
+[Anotações](./live-15.md)                \|
 Avaliar
 ]
 
